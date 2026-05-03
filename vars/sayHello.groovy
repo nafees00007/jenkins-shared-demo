@@ -4,7 +4,7 @@ def call(Map config) {
         stages {
             stage('Print Info') {
                 steps {
-                    echo "Running in ${config.env} environment"
+                    echo "Runninggggggggggggggggggggg in ${config.env} environment"
                 }
             }
         }
